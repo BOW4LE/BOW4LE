@@ -11,6 +11,6 @@
     <img id="preview" src="https://komarev.com/ghpvc/?username=Bowale&color=grey">
 </p>
 <p align="center">
-    <a href="https://leetcode.com/drknzz/"><img width="48%" src="https://leetcode.card.workers.dev/Bowale?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://www.linkedin.com/in/b-o-w-a-l-e/"><img width="48%" src="https://leetcode.card.workers.dev/Bowale?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
     <a href="https://github.com/bow4le"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bow4le&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
